@@ -1,0 +1,112 @@
+#header_div{
+    background-color: #8e70db;
+}
+#header_logo_size{
+    width: 68px;
+    height: 65px;
+    margin-left: 48%;
+    margin-bottom: 0px;
+}
+#header_name_size{
+    width: 12%;
+    height: 8%;
+    margin-left: 45%;
+    margin-top: 0.01%;
+    margin-bottom: 0px;
+}
+#footer_div{
+    width: 100%;
+    height: 80px;
+    background-color: #8e70db;
+}
+#footer_logo_size{
+    width: 65px;
+    height: 65px;
+    padding-top: 0.4%;
+    padding-bottom: 0%;
+    margin-bottom: 0px;
+    margin-left: 45%;
+}
+#footer_name_size{
+    width: 8%;
+    height: 4%;
+    margin-left: 50%;
+    margin-top: -6.2%;
+}
+#logo_fontset{
+    font-family: Tahoma;
+    font-weight: bold;
+    font-style: italic;
+}
+.navbar{
+    background-color: #8e70db;
+    padding: 0px;
+    margin: 0px;
+    width: 100%;
+    height: 60px;
+}
+#heading_nav{
+    font-family: Verdana;
+}
+#newsletter_button{
+    background-color: #8e70db;
+    border-color: #8e70db;
+    text-align: center;
+    display: inline-block;
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+#submit_button{
+    background-color: #8e70db;
+    border-color: #8e70db;
+    text-align: center;
+}
+#x_button{
+    position: absolute;
+    right: 5px;
+    top: 5px;
+}
+#textbox_style{
+    position: absolute;
+    width: 284px;
+    height: 30px;
+    left: 130px;
+    top: 14px;
+}
+.write{
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+/*Causes Page*/
+.generic_page_size{
+    width: 100%;
+    height: 607px;
+}
+.title_box{
+    width: 100px;
+    height: 300px;
+    border-color: black;
+    border-width: 10px;
+}
+
+.generic_padding{
+    padding: 20px;
+}
+
+.bold_italics{
+    font-style: italic;
+    color: #615f5e;
+}
+#boy_image_size{
+    width:4%;
+    height:1%;
+    margin-top: -13%;
+    margin-left: 28%;
+}
+.special_padding{
+    padding-left: 8%;
+    padding-right:8%;
+    margin-bottom: 3%;
+}
+#make_stripe{
+    background-color: #FFA654;
+    width: 100%;
+}
